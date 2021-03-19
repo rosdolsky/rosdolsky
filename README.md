@@ -1,4 +1,4 @@
-![rosdolsky](https://socialify.git.ci/rosdolsky/rosdolsky/image?description=1&descriptionEditable=In%20memoriam%20Emmy%20%26%20Roman%20Rosdolsky&font=Bitter&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F48161788%3Fs%3D200%26v%3D4&pattern=Diagonal%20Stripes&theme=Light)
+![rosdolsky](https://socialify.git.ci/rosdolsky/rosdolsky/image?description=1&descriptionEditable=In%20memoriam%20Emmy%20%26%20Roman%20Rosdolsky&font=KoHo&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F30531332%3Fs%3D200%26v%3D4&pattern=Brick%20Wall&theme=Dark)
 
 # 👋Welcome to rosdolsky.org
 
